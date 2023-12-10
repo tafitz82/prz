@@ -8,7 +8,8 @@
   background-size: cover;
   color: #fff;
   text-align: center;
-
+  align-items: center;
+  display: grid;
  
 }
 
@@ -68,7 +69,7 @@ p {
 }
 
 p#or {
-    margin: 0 14px ;
+    margin: 0 14px 0 ;
   color: rgba(50,50,50,1);
   text-align: center;
   text-shadow: 
@@ -240,7 +241,7 @@ button:focus {
           <span class="second">CLASSROOM</span>
         </span>
       </div>
-    </h1>
+    </h1><br>
     <div class="animation">
         <button class="pulse-button"><a href="index.php">PRE TEST</a></button>
       <p id="or">or</p>
