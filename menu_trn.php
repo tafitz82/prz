@@ -242,9 +242,9 @@ button:focus {
       </div>
     </h1>
     <div class="animation">
-        <button class="pulse-button">PRE TEST</button>
+        <button class="pulse-button"><a href="index.php">PRE TEST</a></button>
       <p id="or">or</p>
-        <button class="pulse-button">RECORD TRAINING</button>
+        <button class="pulse-button"><a href="">RECORD TRAINING</a></button>
     </div>
 
     
